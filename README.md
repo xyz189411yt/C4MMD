@@ -21,13 +21,13 @@ You may need to download the following content in advance to use our code：
 2. [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) model and it's inference demo(as our demo may out of date, we recommend you to use the latest one.).
 3. Pre-trained [Vision](https://huggingface.co/google/vit-base-patch16-224) and [Language](https://huggingface.co/FacebookAI/xlm-roberta-base) models used in mordality fusion structure.
 
-After that, you can download our code through the following lines.
+After that, you can use our code by:
 ```bash
 https://github.com/xyz189411yt/C4MMD.git
 cd C4MMD-main
 pip install -r requirements.txt
 ```
-**Note:**The version of Torch and Transformers is 1.13.0 and 4.24.0.
+**Note:** The version of Torch and Transformers is 1.13.0 and 4.24.0.
 
 ## Usage
 
