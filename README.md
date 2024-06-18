@@ -47,7 +47,7 @@ You can only change the data path of this file and run it with the following lin
 python data_divide.py
 ```
 
-It should be noted that we have given a example in this file to showcase our data processing method. You can also use a data format as you wish, but just ensure that the final data format is same with [data](/data) to execute the final training process.
+It should be noted that we have given a example in this file to showcase our data processing method. You can also use a data format as you wish, but just ensure that the final data format should be same with [data](/data) to execute the final training process.
 
 
 ### Step2: CoT module for MLLM
