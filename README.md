@@ -33,9 +33,9 @@ pip install -r requirements.txt
 
 You need to follow the three steps to run the model.
 
-Step 1: [Data pre-processing](#Data-pre-processing) -> [data_divide.py](data_divide.py)
-Step 2: [CoT module for MLLM](#CoT-module-for-MLLM) -> [CoT_module.py](CoT_module.py)
-Step 3: [Main training process](#Main-training-process) -> [C4MMD_train.py](C4MMD_train.py)
+- Step 1: [Data pre-processing](#Data-pre-processing) -> [data_divide.py](data_divide.py)
+- Step 2: [CoT module for MLLM](#CoT-module-for-MLLM) -> [CoT_module.py](CoT_module.py)
+- Step 3: [Main training process](#Main-training-process) -> [C4MMD_train.py](C4MMD_train.py)
 
 ### Step1: Data pre-processing
 
