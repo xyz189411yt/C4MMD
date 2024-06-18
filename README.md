@@ -27,7 +27,7 @@ https://github.com/xyz189411yt/C4MMD.git
 cd C4MMD-main
 pip install -r requirements.txt
 ```
-**Note:** The version of Torch and Transformers is 1.13.0 and 4.24.0.
+**Note:** Torch>=1.13.0, Transformers>= 4.24.0
 
 ## Usage
 
